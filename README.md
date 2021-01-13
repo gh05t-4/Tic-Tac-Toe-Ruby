@@ -11,5 +11,5 @@ Tic Tac Toe game using OOP in Ruby
 ```bash
 cd Tic-Tac-Toe-Ruby
 chmod +x tic-tac-toe.rb
-./ceasar.rb <String> <Key> 
+./tic-tac-toe.rb 
 ```
